@@ -1,9 +1,10 @@
+//Programa de pasar números a letras 
 #include <string>
 #include <iostream>
 
 using namespace std;
 
-int main()
+int main() 
 {
     string unidades[] = 
     {"cero", "uno", "dos" ,"tres" ,"cuatro" ,"cinco" ,
